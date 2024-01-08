@@ -1,6 +1,6 @@
 import Library_Functions ## Importa las funciones del archivo que las contiene.
 
-##Catologo inicial
+##Catálogo inicial
 book_catalog = {
     1234567891234:{"titulo": "Introducción a la programación",
                    "autor": "Codo a codo inicial", 
